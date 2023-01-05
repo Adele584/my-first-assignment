@@ -1,0 +1,240 @@
+/***********************************TAG SELECTORS*********************************/
+body {
+  margin-right: -0px;
+  padding: 0px;
+}
+
+h1 {
+  font-family: "Lato", sans-serif;
+  font-size: 27px;
+  text-align: center;
+  position: relative;
+  top: 45px;
+  margin-top: -20px;
+}
+
+h2 {
+  font-family: sans-serif;
+  margin: 2px;
+}
+
+h3 {
+  background-color: lightgrey;
+  font-family: sans-serif;
+  text-align: center;
+  padding: 18px;
+  margin: auto;
+}
+
+img {
+  width: 24%;
+  position: fixed;
+  left: 0px;
+}
+
+p {
+  font-family: sans-serif;
+  line-height: 30px;
+}
+
+/**********************************CLASS SELECTORS*******************************/
+.a {
+  padding-top: 50px;
+  position: absolute;
+  left: 500px;
+}
+
+.button {
+  background: #f5ce0c;
+  background-image: -webkit-linear-gradient(top, #f5ce0c, #f5ce0c);
+  background-image: -moz-linear-gradient(top, #f5ce0c, #f5ce0c);
+  background-image: -ms-linear-gradient(top, #f5ce0c, #f5ce0c);
+  background-image: -o-linear-gradient(top, #f5ce0c, #f5ce0c);
+  background-image: linear-gradient(to bottom, #f5ce0c, #f5ce0c);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  font-weight: bold;
+  color: #382b2b;
+  font-size: 15px;
+  padding: 9px 20px 9px 20px;
+  border: solid #ffffff 0px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: #f5ce0c;
+  background-image: -webkit-linear-gradient(top, #f5ce0c, #f5ce0c);
+  background-image: -moz-linear-gradient(top, #f5ce0c, #f5ce0c);
+  background-image: -ms-linear-gradient(top, #f5ce0c, #f5ce0c);
+  background-image: -o-linear-gradient(top, #f5ce0c, #f5ce0c);
+  background-image: linear-gradient(to bottom, #f5ce0c, #f5ce0c);
+  text-decoration: none;
+}
+
+.c {
+  padding: 190px;
+  margin-left: 90px;
+  margin-right: -50px;
+}
+
+.bottom-container {
+  background-color: lightgrey;
+  height: 55px;
+  margin-top: 700px;
+  margin-bottom: -80px;
+}
+
+.btn {
+  background: #ebce12;
+  background-image: -webkit-linear-gradient(top, #ebce12, #ebce12);
+  background-image: -moz-linear-gradient(top, #ebce12, #ebce12);
+  background-image: -ms-linear-gradient(top, #ebce12, #ebce12);
+  background-image: -o-linear-gradient(top, #ebce12, #ebce12);
+  background-image: linear-gradient(to bottom, #ebce12, #ebce12);
+  font-family: Arial;
+  color: #000000;
+  font-size: 13px;
+  font-weight: bold;
+  border-radius: px;
+  border-color: #000000;
+  border-style: solid;
+  border: 5px 0;
+  padding: 5px 90px 5px 90px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ebce12;
+  background-image: -webkit-linear-gradient(top, #ebce12, #ebce12) background-image: -moz-linear-gradient(top, #ebce12, #ebce12) background-image: -ms-linear-gradient(top, #ebce12, #ebce12) background-image: -o-linear-gradient(top, #ebce12, #ebce12) background-image: linear-gradient(to bottom, #ebce12, #ebce12) text-decoration: none
+}
+
+.Email {
+  height: 27px;
+  width: 265px;
+}
+
+.footer-link {
+  position: relative;
+  right: 930px;
+  top: 6px;
+}
+
+.master-div {
+  padding-top: 40px;
+}
+
+.video {
+  position: absolute;
+  right: 25%;
+  top: 125%;
+  margin-top: 2px;
+}
+
+.first-box {
+  background-color: white;
+  height: 260px;
+  width: 300px;
+  margin-top: 322px;
+  margin-left: 13%;
+  border: 03px;
+  border-style: solid;
+  position: absolute;
+  bottom: -842px;
+  text-align: center;
+}
+
+.second-box {
+  border: 3px;
+  border-style: solid;
+  background-color: white;
+  height: 260px;
+  width: 300px;
+  margin-top: -61px;
+  margin-left: 40%;
+  position: absolute;
+  top: 1230px;
+  text-align: center;
+}
+
+.third-box {
+  background-color: white;
+  position: absolute;
+  bottom: -842px;
+  right: 120px;
+  height: 260px;
+  width: 300px;
+  margin-left: 45%;
+  border: 03px;
+  border-style: solid;
+  text-align: center;
+}
+
+.img {
+  height: 60px;
+  width: 700px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  list-style-type: none;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: left;
+  padding: 14px 1rem;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-weight: 5px;
+}
+
+li a:hover {
+  background-color: none;
+}
+
+.top-link {
+  text-align: right;
+  top: 0px;
+  right: 0px;
+  position: fixed;
+}
+
+.salami {
+  position: relative;
+  left: 430px;
+}
+
+.linker {
+  color: #40514E;
+}
+
+a {
+  color: black;
+}
+
+.last {
+  position: relative;
+  bottom: 50px;
+  left: 910px;
+  margin-bottom: -80px;
+}
+
+.png {
+  width: 40px;
+  height: 60;
+  border: 20px;
+}
+
+.container-fluid {
+  position: fixed;
+  background-color: white;
+}
